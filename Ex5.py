@@ -1,4 +1,5 @@
-1"""days = [31,28,31,30,31,30,31,31,30,31,30,31]
+#1
+days = [31,28,31,30,31,30,31,31,30,31,30,31]
 
 
 
@@ -18,7 +19,7 @@ def julian_date(d,m,y):
             
 
     days_passed +=d
-    print(days_passed)"""
+    print(days_passed)
             
             
             
